@@ -56,7 +56,7 @@
         <input id=" enter name " type="text" placeholder="Name" required>
         <input type="email" placeholder=" enter Email" required>
         <input type="tel" placeholder="Phone" required>
-        <button id="button" type="submit">Submit</button>
+        <button id="button" type="submit">register</button>
     </form>
     <script src="script.js"></script>
 </body>
