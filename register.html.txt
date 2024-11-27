@@ -54,7 +54,7 @@
     <form>
         <h3>Register form</h3>
         <input id=" enter name " type="text" placeholder="Name" required>
-        <input type="email" placeholder="Email" required>
+        <input type="email" placeholder=" enter Email" required>
         <input type="tel" placeholder="Phone" required>
         <button id="button" type="submit">Submit</button>
     </form>
